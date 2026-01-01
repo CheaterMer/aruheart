@@ -5626,7 +5626,7 @@
 	{id = "79698476826562", name = "AKAGE - REMIX (from Smily's Originals)"},
 	{id = "139194055025454", name = "The Ol' Jitterbug - Deltarune Remix mp3 youtube com"},
 	{id = "106624251020716", name = "(FLASHING LIGHTS) FORSAKEN OST -"},
-	{id = "113540605218314", name = "FORSAKEN - Through Patches of Violet (Hacklord Shedletsky 1x1x1x1 LMS) //Cover by Vincent Moretto"},
+	{id = "113540605218314", name = "FORSAKEN - Through Patches of Violet (Hacklord Shedletsky 1x1x1x1 LMS) //Cover by Vincent Moretto"}
 ]
 
 return DEFAULT_AUDIO
